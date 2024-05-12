@@ -12,7 +12,7 @@ env:  # Global defaults
 #
 # It is possible to select a specific persistent worker by label. Refer to the
 # Cirrus CI docs for more details.
-#
+# 
 # Generally, a persistent worker must run Ubuntu 23.04+ or Debian 12+.
 # Specifically,
 # - apt-get is required due to PACKAGE_MANAGER_INSTALL
